@@ -20,7 +20,7 @@ public class Encode {
             encMsg.append((char) (codMsg.charAt(i) ^ key));
         }
         System.out.println("Дешифрованное сообщение: " + encMsg);
-        System.out.println("sdfs");
         System.out.println("asdlfsadfsa");
+        System.out.println("asdfasdfsadfdsaf");
     }
 }
