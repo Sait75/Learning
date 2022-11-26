@@ -21,5 +21,6 @@ public class Encode {
         }
         System.out.println("Дешифрованное сообщение: " + encMsg);
         System.out.println("sdfs");
+        System.out.println("asdlfsadfsa");
     }
 }
